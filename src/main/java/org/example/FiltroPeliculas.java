@@ -6,7 +6,7 @@ public class FiltroPeliculas {
     /* Este metodo coge del archivo que esta en la raiz "peliculas.csv" y analiza el año en el
     * que fueron hechas a partir del parametro "n" y crea un archivo "PelicualsPosterioresA'n'.csv"
     * donde guarda las peliculas que cumplan el filtro
-    * @param n año por el cual se filtran las pliculas
+    * @param n año por el cual se filtran las peliculas
     */
     public void filtrarPorAno(Integer n) {
         try {
